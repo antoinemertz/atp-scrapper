@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# data
+# data folder
 data/external/*
 !data/external/.gitkeep
 data/processed/*
@@ -137,3 +137,9 @@ data/internal/*
 !data/internal/.gitkeep
 data/raw/*
 !data/raw/.gitkeep
+
+# docs, models, references & reports folders
+docs/*
+models/*
+references/*
+reports/*
