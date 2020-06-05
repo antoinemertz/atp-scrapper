@@ -9,6 +9,9 @@ verify_ssl = true
 jupyterlab = "*"
 beautifulsoup4 = "*"
 pandas = "*"
+flake8 = "*"
+pytest = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.7"
