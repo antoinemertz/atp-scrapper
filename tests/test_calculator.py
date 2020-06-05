@@ -1,7 +1,4 @@
-import sys
-sys.path.append('../src')
-
-import calculator
+from src import calculator
 
 class TestCalculator:
 
